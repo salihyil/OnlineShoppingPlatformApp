@@ -1,0 +1,15 @@
+D:\codes\Csharp-ornekler\patika-projects\OnlineShoppingPlatformApp\OnlineShoppingPlatformApp.Business\obj\Debug\net9.0\OnlineShoppingPlatformApp.Business.csproj.AssemblyReference.cache
+D:\codes\Csharp-ornekler\patika-projects\OnlineShoppingPlatformApp\OnlineShoppingPlatformApp.Business\obj\Debug\net9.0\OnlineShoppingPlatformApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\Csharp-ornekler\patika-projects\OnlineShoppingPlatformApp\OnlineShoppingPlatformApp.Business\obj\Debug\net9.0\OnlineShoppingPlatformApp.Business.AssemblyInfoInputs.cache
+D:\codes\Csharp-ornekler\patika-projects\OnlineShoppingPlatformApp\OnlineShoppingPlatformApp.Business\obj\Debug\net9.0\OnlineShoppingPlatformApp.Business.AssemblyInfo.cs
+D:\codes\Csharp-ornekler\patika-projects\OnlineShoppingPlatformApp\OnlineShoppingPlatformApp.Business\obj\Debug\net9.0\OnlineShoppingPlatformApp.Business.csproj.CoreCompileInputs.cache
+D:\codes\Csharp-ornekler\patika-projects\OnlineShoppingPlatformApp\OnlineShoppingPlatformApp.Business\bin\Debug\net9.0\OnlineShoppingPlatformApp.Business.deps.json
+D:\codes\Csharp-ornekler\patika-projects\OnlineShoppingPlatformApp\OnlineShoppingPlatformApp.Business\bin\Debug\net9.0\OnlineShoppingPlatformApp.Business.dll
+D:\codes\Csharp-ornekler\patika-projects\OnlineShoppingPlatformApp\OnlineShoppingPlatformApp.Business\bin\Debug\net9.0\OnlineShoppingPlatformApp.Business.pdb
+D:\codes\Csharp-ornekler\patika-projects\OnlineShoppingPlatformApp\OnlineShoppingPlatformApp.Business\bin\Debug\net9.0\OnlineShoppingPlatformApp.Data.dll
+D:\codes\Csharp-ornekler\patika-projects\OnlineShoppingPlatformApp\OnlineShoppingPlatformApp.Business\bin\Debug\net9.0\OnlineShoppingPlatformApp.Data.pdb
+D:\codes\Csharp-ornekler\patika-projects\OnlineShoppingPlatformApp\OnlineShoppingPlatformApp.Business\obj\Debug\net9.0\OnlineSh.1FA737B6.Up2Date
+D:\codes\Csharp-ornekler\patika-projects\OnlineShoppingPlatformApp\OnlineShoppingPlatformApp.Business\obj\Debug\net9.0\OnlineShoppingPlatformApp.Business.dll
+D:\codes\Csharp-ornekler\patika-projects\OnlineShoppingPlatformApp\OnlineShoppingPlatformApp.Business\obj\Debug\net9.0\refint\OnlineShoppingPlatformApp.Business.dll
+D:\codes\Csharp-ornekler\patika-projects\OnlineShoppingPlatformApp\OnlineShoppingPlatformApp.Business\obj\Debug\net9.0\OnlineShoppingPlatformApp.Business.pdb
+D:\codes\Csharp-ornekler\patika-projects\OnlineShoppingPlatformApp\OnlineShoppingPlatformApp.Business\obj\Debug\net9.0\ref\OnlineShoppingPlatformApp.Business.dll
