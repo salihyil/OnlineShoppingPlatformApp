@@ -86,7 +86,7 @@ The project follows N-Tier Architecture with these main layers:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/OnlineShoppingPlatformApp.git
+git clone https://github.com/salihyil/OnlineShoppingPlatformApp.git
 ```
 
 2. Navigate to the project directory
